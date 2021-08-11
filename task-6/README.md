@@ -1,7 +1,7 @@
 # Task 6
 
 1. A screenshot of the console output immediately after you have successfully generated your Deposit Receiver Address.
-![](https://github.com/arnaudatcomet/nervos/blob/main/task-6/deploy-bridge.png)
+![](https://github.com/arnaudatcomet/nervos/blob/main/task-6/bridge.png)
 
 2. Your Deposit Receiver Address (in text format).
 ```
