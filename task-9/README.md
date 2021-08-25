@@ -1,4 +1,4 @@
-# Task 8
+# Task 9
 
 1. A screenshot of the console output immediately after running the withdraw command.
 ![](https://github.com/arnaudatcomet/nervos/blob/main/task-9/1-cli.png)
